@@ -18,7 +18,7 @@
 
 | Módulo                                    | Ejercicios                      | Enunciados                           |
 |-------------------------------------------|---------------------------------|--------------------------------------|
-| Introducción a BPMN                       | 📁 click <a href=""> aquí </a>  | 📖 click <a href=""> aquí </a>      |
+| Introducción a BPMN                       | 📁 click <a href=""> aquí </a>  | 📖 click <a href="https://github.com/RossattiSM/RPA-Generation/wiki/RPA-Generation-Wiki#enunciados-de-ejercicios-de-modelado-de-procesos"> aquí </a>      |
 
 ## Sobre el curso
 
