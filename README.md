@@ -18,7 +18,7 @@
 
 | Módulo                                    | Ejercicios                      | Enunciados                           |
 |-------------------------------------------|---------------------------------|--------------------------------------|
-| Introducción a BPMN                       | 📁 click <a href=""> aquí </a>  | 📖 click <a href="https://github.com/RossattiSM/RPA-Generation/wiki/Introducci%C3%B3n-a-BPMN"> aquí </a>      | Ignacio GR. Gavilán
+| Introducción a BPMN                       | 📁 click <a href="https://github.com/RossattiSM/RPA-Generation/tree/main/Introducci%C3%B3n%20a%20BPMN"> aquí </a>  | 📖 click <a href="https://github.com/RossattiSM/RPA-Generation/wiki/Introducci%C3%B3n-a-BPMN"> aquí </a>      | Ignacio GR. Gavilán
 
 ## Sobre el curso
 
