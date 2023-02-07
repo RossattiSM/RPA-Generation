@@ -6,10 +6,10 @@
 </p>
 
 <p align="center"> <b>
-<a href=""> EJERCICIOS </a> •
-<a href=""> EL CURSO</a>  • 
-<a href=""> MODULOS </a>  • 
-<a href=""> PROGRAMA</a> 
+<a href="#ejercicios"> EJERCICIOS </a> •
+<a href="#sobre-el-curso"> EL CURSO</a>  • 
+<a href="#módulos"> MODULOS </a>  • 
+<a href="#programa"> PROGRAMA</a> 
 </b> </p> 
 
 <hr>
@@ -18,7 +18,7 @@
 
 | Módulo                                    | Ejercicios                      | Enunciados                           |
 |-------------------------------------------|---------------------------------|--------------------------------------|
-| Introducción a BPMN                       | 📁 click <a href=""> aquí </a>  | 📖 click <a href="https://github.com/RossattiSM/RPA-Generation/wiki/RPA-Generation-Wiki#enunciados-de-ejercicios-de-modelado-de-procesos"> aquí </a>      |
+| Introducción a BPMN                       | 📁 click <a href=""> aquí </a>  | 📖 click <a href="https://github.com/RossattiSM/RPA-Generation/wiki/Introducci%C3%B3n-a-BPMN"> aquí </a>      |
 
 ## Sobre el curso
 
