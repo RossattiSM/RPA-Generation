@@ -1,4 +1,4 @@
-# Ejercicios de Modelado de Procesos con BPMN.io
+# Modelado de Procesos con BPMN.io
 
 | Ejercicio                   | Enunciado   | Visualización |
 | --------                  | :---------: | :-------------: |
